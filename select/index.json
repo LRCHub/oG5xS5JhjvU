@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Theater",
+  "base_artist": "King & Prince",
+  "createdAt": "2026-01-13T16:47:55.628379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Was Country When Country Wasn't Cool (feat. George Jones) [Live At The Roy Acuff Theater Nashville, TN, 1981]",
+      "artist": "Barbara Mandrell",
+      "has_synced": true,
+      "path": "select/01_I_Was_Country_When_Country_Wasn't_Cool_(feat._George_Jones)_[Live_At_The_Roy_Acu_Barbara_Mandrell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Been A Son - Live at Pine Street Theater",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/02_Been_A_Son_-_Live_at_Pine_Street_Theater_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Molly's Lips - Live at Pine Street Theater",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/03_Molly's_Lips_-_Live_at_Pine_Street_Theater_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "School - Live at Pine Street Theater",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/04_School_-_Live_at_Pine_Street_Theater_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "T For Texas (Blue Yodel No. 1) - Live At The Fox Theater/1976",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/05_T_For_Texas_(Blue_Yodel_No._1)_-_Live_At_The_Fox_Theater_1976_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Whiskey Rock-A-Roller (Live At The Fox Theater/1976)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/06_Whiskey_Rock-A-Roller_(Live_At_The_Fox_Theater_1976)_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Et Kackleed (Live im Millowitsch Theater 1985)",
+      "artist": "Bläck Fööss",
+      "has_synced": false,
+      "path": "select/07_Et_Kackleed_(Live_im_Millowitsch_Theater_1985)_Bläck_Fööss.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Straight Into a Storm - Live from the Visulite Theater , Charlotte, NC",
+      "artist": "Deer Tick",
+      "has_synced": false,
+      "path": "select/08_Straight_Into_a_Storm_-_Live_from_the_Visulite_Theater_,_Charlotte,_NC_Deer_Tick.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Theater Of Dimensions",
+      "artist": "Xandria",
+      "has_synced": true,
+      "path": "select/09_A_Theater_Of_Dimensions_Xandria.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Theater of Salvation",
+      "artist": "Edguy",
+      "has_synced": true,
+      "path": "select/10_Theater_of_Salvation_Edguy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Break Free (Live On The Honda Stage At The iHeartRadio Theater LA \u0000 October 30, 2015)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_Break_Free_(Live_On_The_Honda_Stage_At_The_iHeartRadio_Theater_LA_\u0000_October_30,__Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Problem (Live On The Honda Stage At The iHeartRadio Theater LA \u0000 October 30, 2015)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/12_Problem_(Live_On_The_Honda_Stage_At_The_iHeartRadio_Theater_LA_\u0000_October_30,_201_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tattooed Heart (Live On The Honda Stage At The iHeartRadio Theater LA \u0000 October 30, 2015)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/13_Tattooed_Heart_(Live_On_The_Honda_Stage_At_The_iHeartRadio_Theater_LA_\u0000_October__Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Petersburg, Liberty Theater, 1914",
+      "artist": "Swan Lake",
+      "has_synced": false,
+      "path": "select/14_Petersburg,_Liberty_Theater,_1914_Swan_Lake.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Theater",
+      "artist": "King & Prince",
+      "has_synced": false,
+      "path": "select/pl_01_Theater_King_&_Prince.txt"
+    }
+  ]
+}
